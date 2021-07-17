@@ -1,0 +1,83 @@
+.navbar-brand img {
+    height: 80px;
+    width: 200px;
+    margin-top: -37px;
+}
+.my_nav_bar {
+    background: darkgreen;
+}
+section img {
+    height: 600px;
+    width: 100%;
+}
+section h1 {
+    color: white;
+    margin-top: -300px;
+}
+#home {
+    height: 700px;
+}
+body {
+    text-align: ;
+}
+html {
+    scroll-behavior: smooth;
+}
+#marquee {
+    background-color: darkblue;
+    color: white;
+}
+#home {
+    margin-top: -3px;
+}
+#map{
+    height: 400px;
+    width: 400px;
+    margin-top: 100px;
+    margin-right: 800px;
+}
+#contact {
+    background-color: darkgreen;
+    height: 720px;
+    width: 100%;
+}
+#contact h1{
+    color: white;
+    margin-top: 400px;
+}
+orm {
+    margin-left: 800px;
+    margin-top: -300px;
+}
+.text-success {
+    font-size: 20px;
+}
+span {
+    border: 1px solid #111111;
+}
+i {
+    float: right;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.ch {
+    margin-top: 50px;
+}
+.ch h4{
+    border-bottom: 1px solid #111111;
+    padding: 10px;
+}
+.ch p {
+    margin-top: 10px;
+}
